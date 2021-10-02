@@ -27,7 +27,7 @@ const MealsNavigator = () => {
         <Stack.Screen
           name="Categories"
           component={CategoryScreen}
-          options={{
+          options={{ 
             title: "Meal Categories",
           }}
         />
